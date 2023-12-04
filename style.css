@@ -1,0 +1,12 @@
+#nao {
+    background-color: red;
+    color: white;
+    position: absolute;
+}
+
+#sim {
+    background-color: green;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
